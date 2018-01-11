@@ -1,1 +1,4 @@
 hola git desde vim y la rama-a
+con una nueva modificacion
+que se va a trasponer al de la 
+rama master
