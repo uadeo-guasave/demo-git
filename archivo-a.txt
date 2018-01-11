@@ -1,1 +1,3 @@
-hola git desde vim y la rama-a
+hola git desde vim
+modificado en la rama master despues
+de haber hecho el merge
