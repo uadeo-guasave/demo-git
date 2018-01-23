@@ -2,4 +2,5 @@ function hola(wey) {
   alert('Hola ' + wey);
 }
 
-enmaster = () => { console.log('funcion en master') }
+function noestaenmaster()
+{ console.log('este cambio no esta master') }
