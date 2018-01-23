@@ -1,0 +1,4 @@
+archivo.txt
+archivo-a.txt
+archivo-b.txt
+public/
